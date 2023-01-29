@@ -7,8 +7,8 @@ Developer
 +7 903 117-72-86  mve9031177286@gmail.com
 тг @Maximvs777  https://github.com/Mve9031177286
 
-НАВЫКИ
-Стек: Android SDK, Kotlin, XML, REST
+СТЕК:
+Android SDK, Kotlin, XML, REST
 API(Retrofit2), Jetpack Compose, Architecture
 Components(ViewModel, Room, etc.), навыки
 работы с Google Play
