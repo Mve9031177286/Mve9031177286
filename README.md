@@ -4,14 +4,13 @@ Developer
 Москва
 
 КОНТАКТЫ
- +7 903 117-72-86  mve9031177286@gmail.com
- @Maximvs777  https://github.com/Mve9031177286
++7 903 117-72-86  mve9031177286@gmail.com
+тг @Maximvs777  https://github.com/Mve9031177286
 НАВЫКИ
 Стек: Android SDK, Kotlin, XML, REST
 API(Retrofit2), Jetpack Compose, Architecture
 Components(ViewModel, Room, etc.), навыки
 работы с Google Play
-●
 Android Developer, стажировка:
 Создание приложения по пешим туристическим маршрутам, на первом этапе в одной стране.
 ОПЫТ РАБОТЫ
@@ -43,9 +42,6 @@ Skillfactory 2022
 ГБОУ ДПО Центр "Профессионал" 2020
 ЛИЧНЫЕ КАЧЕСТВА:
 ДОП. ИНФО
-
-
-
 09.01.2023, 16:00 Резюме: Разработчик приложений для Андроид / Android Developer
 https://myresume.ru/resume/7EJ1qqEXv0b/ 2/2
 Надежный.
