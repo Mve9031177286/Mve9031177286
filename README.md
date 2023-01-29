@@ -2,7 +2,7 @@
 Разработчик приложений для Андроид / Android
 Developer
 Москва
-
+
 КОНТАКТЫ
 +7 903 117-72-86  mve9031177286@gmail.com
 тг @Maximvs777  https://github.com/Mve9031177286
